@@ -1,0 +1,14 @@
+portal de material
+ -> organiza por curso / período e disciplina e prof ministratne
+ 	-> material contem resumo e ranking (nota / estrelinha de ranking)
+ -> back end em java, front end web
+ -> Agenda de horários?
+ -> interação social
+ -> fórum dúvidas
+
+
+
+sis social
+ -> tipo guardiões só que da cidade
+
+ 
