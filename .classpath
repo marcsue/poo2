@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="01PraticaPOO2/src"/>
+	<classpathentry kind="src" path="02PraticaPOO2/src"/>
+	<classpathentry kind="src" path="03PraticaPOO2/src"/>
+	<classpathentry kind="src" path="04Pratica002/src"/>
+	<classpathentry kind="src" path="Trabalho/Codigos/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="01PraticaPOO2/bin"/>
+</classpath>
